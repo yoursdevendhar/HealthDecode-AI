@@ -52,7 +52,7 @@ MedicalAssistant/
 git clone https://github.com/yoursdevendhar/HealthDecode-AI.git
 
 Move into the project folder:
-cd MediVision-AI
+cd HealthDecode-AI
 
 📦 Install Required Packages
 pip install -r requirements.txt
